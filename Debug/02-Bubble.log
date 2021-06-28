@@ -1,0 +1,62 @@
+﻿  Camera.cpp
+  Enemigo.cpp
+  Game.cpp
+  Image.cpp
+  main.cpp
+  Moving.cpp
+  Player.cpp
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Player.cpp(225,8): warning C4244: 'inicializando': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Player.cpp(226,9): warning C4244: 'inicializando': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Player.cpp(227,9): warning C4244: 'inicializando': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Scene.cpp
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(423,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(473,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(551,19): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(930,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(931,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(941,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(958,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(959,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(968,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(985,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(986,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1000,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1001,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1016,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1017,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1032,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1033,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1045,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1046,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1058,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1059,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1071,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1072,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1085,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1086,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1098,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\02-Bubble\Scene.cpp(1099,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Shader.cpp
+  ShaderProgram.cpp
+  Sprite.cpp
+  Texture.cpp
+  TexturedQuad.cpp
+  TileMap.cpp
+  Generando código...
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_DXT.obj)' o en 'D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_helper.obj)' o en 'D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(SOIL.obj)' o en 'D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(stb_image_aug.obj)' o en 'D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  02-Bubble.vcxproj -> D:\Documents\VJ\Joc2D\Projecte\2DGame\02-Bubble - CAM\Debug\02-Bubble.exe
