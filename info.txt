@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------------------
+Integrantes del grupo
+------------------------------------------------------------------------------------------
+
+- Sofía Núñez Gómez
+- Sufang Zhou
+
+------------------------------------------------------------------------------------------
+Funcionalidades implementadas:
+------------------------------------------------------------------------------------------
+
+Las funcionalidades que tenemos implementadas son:
+-El jugador puede subir y bajar de una plataforma a otra a través de las escaleras
+
+-La vitalidad del jugador puede ser reducida cuando el jugador colisiona contra un obstáculo 
+o enemigo.
+
+-Cuando el jugador recoge algún power-up(poción, casco, libros, zapatos o impermeables) puede 
+adquirir habilidades nuevas como immunidad ante enemigos/obstáculos o aumento de velocidad.
+
+-Cuando el jugador recoge una bolsa de dinero gana experiencia 
+
+-Cuando el jugador salta sobre un enemigo, el enemigo desaparece y el jugador gana experiencia
+
+-Cuando el jugador recoge una llave y se acerca a una jaula con uno de sus amigos encerredo, 
+puede rescatarlo.
+
+-Cuando el jugador rescata a todos sus amigos, puede pasar de nivel cruzando el portal.
+
+-Cuando el jugador colisiona con cualquier objeto de la escena (menos plataforma y escaleras) se 
+produce un sonido
+
+-Parte adicional: Cuando recoges la pócima eres inmune a los ataques de los enemigos y los choques 
+contra los obtáculos.
+
+- La zona superior muestra la barra de vitalidad y experiencia y el nivel en el que se encuentra el 
+jugador.Mientras que la zona inferior muestra los powerups que tiene en ese momento el jugador y los 
+amigos que ha rescatado (2 en cada nivel)
+
+------------------------------------------------------------------------------------------
+Instrucciones
+------------------------------------------------------------------------------------------
+
+- Recoge las llaves para liberar los amigos encerrados en las jaulas. 
+- Usa las teclas ← → para moverte hacia la izquierda y la derecha, las teclas ↑ ↓ para subir 
+y bajar las escaleras y la tecla ↑ para saltar.
+- Gana experiencia matando a los enemigos o recogiendo dinero y evita chocar contra enemigos 
+o obstáculos ya que te hará perder vitalidad.
+- Acaba con los guardias y los esqueletos saltando encima de ellos.
+- Utiliza los power-ups para adquirir habilidades especiales o para protegerte.
+- Cruza el portal para pasar al siguiente nivel una vez hayas rescatado a todos los amigos.
+
+Teclas
+Pulsa las siguientes teclas para:
+- Ir al Menú principal						m
+- Jugar/Iniciar una partida nueva				j
+- Ver las instrucciones						i
+- Ver los créditos						c
+- Pasar a God mode: No puedes perder vida			g
+- Rescatar a los amigos automáticamente				a
+- Pasar al nivel NUM = [1,2,3,4 o 5]				n + NUM
+- Obtener un power-up
+- Pócima verde: No puedes perder vida				p + 1 
+- Casco amarillo: Te protege de las estalactitas		p + 2
+- Impermeable gris: Te protege de las gotas			p + 3 
+- Impermeable azul: Te protege de las cascadas			p + 4
+- Hyper Shoes:  Caminas más rápido				p + 5
+- Libro granate: Disminuye el daño de los esqueletos		p + 6
+- Libro azul: Disminuye el daño de los guardias			p + 7
